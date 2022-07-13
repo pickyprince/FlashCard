@@ -1,4 +1,4 @@
-# flashCard
+# FlashCard
 Flash Card Project
 
 자바를 사용한 영단어 외우기 어플리케이션
