@@ -1,5 +1,5 @@
 package com.pickyprince.flashCard.lib.Controller;
 
-public interface IViewController {
+public interface Controller {
 	void print();
 }
