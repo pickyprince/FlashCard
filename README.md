@@ -5,8 +5,8 @@ Flash Card Project
 
 CSV파일
 
-word, meaning
-hello, 안녕
-fire, 불
+###word,meaning
+###hello, 안녕
+###fire, 불
 
 위와 같은 형태의 데이터를 플래시카드로 앱 사용자에게 제공
