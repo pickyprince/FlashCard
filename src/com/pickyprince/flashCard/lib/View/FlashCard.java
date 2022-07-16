@@ -1,4 +1,4 @@
-package com.pickyprince.flashCard.lib;
+package com.pickyprince.flashCard.lib.View;
 
 public class FlashCard {
 	private String word;

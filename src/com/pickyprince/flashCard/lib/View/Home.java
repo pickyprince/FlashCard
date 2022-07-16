@@ -1,7 +1,9 @@
-package com.pickyprince.flashCard.lib;
+package com.pickyprince.flashCard.lib.View;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import com.pickyprince.flashCard.lib.Model.Button;
 
 public class Home {
 	private ArrayList<Button> buttonLists;

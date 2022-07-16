@@ -1,4 +1,4 @@
-package com.pickyprince.flashCard.lib;
+package com.pickyprince.flashCard.lib.Controller;
 
 public interface IViewController {
 	void print();

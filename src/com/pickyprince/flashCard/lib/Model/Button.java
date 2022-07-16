@@ -1,4 +1,4 @@
-package com.pickyprince.flashCard.lib;
+package com.pickyprince.flashCard.lib.Model;
 
 public class Button {
 	private String title;
